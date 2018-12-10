@@ -24,3 +24,4 @@ C:\ImageMixer> path_to_image1 path_to_image2
 * Control + Mouse scroll - increases/decreases transparency of first image
 * Alt + Mouse scroll - increases/decreases transparency of second image
 * s - Save the image
+* Esc - Quit
